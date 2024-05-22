@@ -11,16 +11,14 @@ Los ejercicios se pueden resolver en Python, o en otros lenguajes de tipización
 El concepto principal de programación es el concepto de función. Por supuesto, aquí hablamos de funciones computables que se realizan por medio de secuencias de operaciones elementales. La función recibe algunos argumentos (la «entrada» de la función) y regresa un resultado (la «salida» de la función).
 
 ### Simples
-<details open>
-<summary>Ejercicio 1</summary>
-<br>
+```
 //EJERCICIO 1
 /*
 Escribir una función de un argumento entero a que calcule y regrese el cubo de a.
 Ejemplo. Entrada: −11. Salida: −1331.
 Ejemplo. Entrada: 5. Salida: 125.
 */
-</details>
+```
 
 ```
 //EJERCICIO 2
