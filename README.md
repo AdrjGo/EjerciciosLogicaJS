@@ -14,14 +14,12 @@ El concepto principal de programación es el concepto de función. Por supuesto,
 <details open>
 <summary>Ejercicio 1</summary>
 <br>
-```
 //EJERCICIO 1
 /*
 Escribir una función de un argumento entero a que calcule y regrese el cubo de a.
 Ejemplo. Entrada: −11. Salida: −1331.
 Ejemplo. Entrada: 5. Salida: 125.
 */
-```
 </details>
 
 ```
