@@ -11,6 +11,7 @@ Los ejercicios se pueden resolver en Python, o en otros lenguajes de tipización
 * [Funciones](#funciones "Goto Funciones")
     * [Simples](#simples "Goto Simples")
     * [Booleanas](#booleanas "Goto Booleanas")
+    * [Condicionales](#condicionales "Goto Condicionales")
 
 
 ## Funciones
@@ -191,6 +192,7 @@ Ejemplo. Entrada: −71. Salida: False.
 Ejemplo. Entrada: 0. Salida: True.
 */
 ```
+### Condicionales
 ```
 
 ```
