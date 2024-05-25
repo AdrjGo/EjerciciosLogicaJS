@@ -125,3 +125,84 @@ Ejemplo. Entrada: 5. Salida: 5.
 ```
 [Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio11.js "Ejercicio1")
 ### Booleanos
+
+```
+//EJERCICIO 1
+/*
+Determinar si el número entero dado es positivo. En otras palabras, escribir una función 
+de un argumento entero; si el número dado es positivo, la función debe regresar True; 
+en otro caso la función debe regresar False.
+Ejemplo. Entrada: 8. Salida: True.
+Ejemplo. Entrada: 53. Salida: True.
+Ejemplo. Entrada: 0. Salida: False.
+Ejemplo. Entrada: −4. Salida: False.
+Ejemplo. Entrada: −70. Salida: False.
+*/
+```
+```
+//EJERCICIO 2
+/*
+Determinar si el número entero dado es estrictamente menor que 7.
+Ejemplo. Entrada: 5. Salida: True.
+Ejemplo. Entrada: 7. Salida: False.
+Ejemplo. Entrada: 82. Salida: False.
+Ejemplo. Entrada: −31. Salida: True.
+*/
+```
+```
+//EJERCICIO 3
+/*
+Dados tres números enteros a, b, x, determinar si x es mayor o igual al número a y al mismo tiempo estrictamente menor que b. En otras palabras, determinar si el número x pertenece al intervalo a, b.
+Observación: si a ≥b, entonces para cualquier x la función debe regresar False.
+Ejemplo. Entrada: 3, 32, 20. Salida: True.
+Ejemplo. Entrada: −7, 40, 43. Salida: False.
+Ejemplo. Entrada: 40, 6, 30. Salida: False
+*/
+```
+```
+//EJERCICIO 4
+/*
+Determinar si el número entero dado es par.
+Sugerencia: en el lenguaje de programación elegido encontrar la operación o función que regresa el resto al dividir un número entre otro.
+Ejemplo. Entrada: 5. Salida: False.
+Ejemplo. Entrada: −44. Salida: True.
+Ejemplo. Entrada: 0. Salida: True.
+Ejemplo. Entrada: 466. Salida: True.
+*/
+```
+```
+//EJERCICIO 5
+/*
+Determinar si el número entero dado es impar.
+Sugerencia: en el lenguaje de programación elegido encontrar la operación o función que regresa el resto al dividir un número entre otro.
+Ejemplo. Entrada: 5. Salida: True.
+Ejemplo. Entrada: −44. Salida: False.
+Ejemplo. Entrada: 0. Salida: False.
+Ejemplo. Entrada: 466. Salida: False.
+*/
+```
+```
+//EJERCICIO 6
+/*
+Determinar si el número entero dado es un múltiplo de 3. En otras palabras, dado un número entero a, regresar True si a es un múltiplo de 3; regresar False en otro caso. Sugerencia: en el lenguaje de programación elegido encontrar la operación o función que regresa el resto al dividir un número entre otro.
+Ejemplo. Entrada: 18. Salida: True.
+Ejemplo. Entrada: −42. Salida: True.
+Ejemplo. Entrada: −71. Salida: False.
+Ejemplo. Entrada: 0. Salida: True.
+*/
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
