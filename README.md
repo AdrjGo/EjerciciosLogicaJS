@@ -36,7 +36,7 @@ Ejemplo. Entrada: 17. Salida: 289.
 Ejemplo. Entrada: −6. Salida: 36.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio2.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio2.js "Ejercicio2")
 ```
 //EJERCICIO 3
 /*
@@ -45,7 +45,7 @@ Ejemplo. Entrada: 5, 18. Salida: −13.
 Ejemplo. Entrada: 32, −5. Salida: 37.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio3.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio3.js "Ejercicio3")
 ```
 //EJERCICIO 4
 /*
@@ -54,7 +54,7 @@ Ejemplo. Entrada: 3, −12. Salida: −1701.
 Ejemplo. Entrada: 15, −14. Salida: 631.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio4.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio4.js "Ejercicio4")
 ```
 //EJERCICIO 5
 /*
@@ -65,7 +65,7 @@ Sugerencia: en el lenguaje de programación elegido encontrar la función que ca
 Ejemplo. Entrada: 11, 27.5. Salida: 29.6184064392398.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio5.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio5.js "Ejercicio5")
 ```
 //EJERCICIO 6
 /*
@@ -74,7 +74,7 @@ con tres argumentos que calcule y regrese la suma de sus argumentos.
 Ejemplo. Entrada: 25, −3, 17. Salida: 39.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio6.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio6.js "Ejercicio6")
 ```
 //EJERCICIO 7
 /*
@@ -83,7 +83,7 @@ Ejemplo. Entrada: 65. Salida: 4.02072575858906.
 Ejemplo. Entrada: 1000. Salida: 10.0000000000000.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio7.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio7.js "Ejercicio7")
 ```
 //EJERCICIO 8
 /*
@@ -92,7 +92,7 @@ tienen longitudes a, b, c.
 Entrada: −2.5, 0.3, −1.9. Salida: 3.1532620591175.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio8.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio8.js "Ejercicio8")
 ```
 //EJERCICIO 9
 /*
@@ -102,7 +102,7 @@ elegido encontrar la función trigonométrica inversa adecuada.
 Entrada: 2.7, 5. Salida: 0.4951332634684.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio9.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio9.js "Ejercicio9")
 ```
 //EJERCICIO 10
 /*Dado un número entero x, regresar el resto al dividir x entre 7.
@@ -112,7 +112,7 @@ Ejemplo. Entrada: −40. Salida: -5.
 Ejemplo. Entrada: 35. Salida: 0.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio10.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio10.js "Ejercicio10")
 ```
 //EJERCICIO 11
 /*
@@ -124,8 +124,17 @@ Ejemplo. Entrada: 688. Salida: 16.
 Ejemplo. Entrada: 5. Salida: 5.
 */
 ```
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio11.js "Ejercicio1")
-### Booleanos
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio11.js "Ejercicio11")
+```
+//EJERCICIO 12
+/*
+Escribir la función de dos argumentos reales positivos p, q, que calcule y regrese la raíz 
+más grande de la ecuación x2 − 2p x − q = 0
+Sugerencia: aplica la formula general
+*/
+```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio12.js "Ejercicio12")
+### Booleanas
 
 ```
 //EJERCICIO 1
@@ -140,6 +149,7 @@ Ejemplo. Entrada: −4. Salida: False.
 Ejemplo. Entrada: −70. Salida: False.
 */
 ```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio1.js "Ejercicio1")
 ```
 //EJERCICIO 2
 /*
@@ -150,49 +160,150 @@ Ejemplo. Entrada: 82. Salida: False.
 Ejemplo. Entrada: −31. Salida: True.
 */
 ```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio2.js "Ejercicio2")
 ```
 //EJERCICIO 3
 /*
-Dados tres números enteros a, b, x, determinar si x es mayor o igual al número a y al mismo tiempo estrictamente menor que b. En otras palabras, determinar si el número x pertenece al intervalo a, b.
+Dados tres números enteros a, b, x, determinar si x es mayor o igual al número a y al mismo
+tiempo estrictamente menor que b. En otras palabras, determinar si el número x pertenece al 
+intervalo a, b.
 Observación: si a ≥b, entonces para cualquier x la función debe regresar False.
 Ejemplo. Entrada: 3, 32, 20. Salida: True.
 Ejemplo. Entrada: −7, 40, 43. Salida: False.
 Ejemplo. Entrada: 40, 6, 30. Salida: False
 */
 ```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio3.js "Ejercicio3")
 ```
 //EJERCICIO 4
 /*
 Determinar si el número entero dado es par.
-Sugerencia: en el lenguaje de programación elegido encontrar la operación o función que regresa el resto al dividir un número entre otro.
+Sugerencia: en el lenguaje de programación elegido encontrar la operación o función que 
+regresa el resto al dividir un número entre otro.
 Ejemplo. Entrada: 5. Salida: False.
 Ejemplo. Entrada: −44. Salida: True.
 Ejemplo. Entrada: 0. Salida: True.
 Ejemplo. Entrada: 466. Salida: True.
 */
 ```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio4.js "Ejercicio4")
 ```
 //EJERCICIO 5
 /*
 Determinar si el número entero dado es impar.
-Sugerencia: en el lenguaje de programación elegido encontrar la operación o función que regresa el resto al dividir un número entre otro.
+Sugerencia: en el lenguaje de programación elegido encontrar la operación o función que 
+regresa el resto al dividir un número entre otro.
 Ejemplo. Entrada: 5. Salida: True.
 Ejemplo. Entrada: −44. Salida: False.
 Ejemplo. Entrada: 0. Salida: False.
 Ejemplo. Entrada: 466. Salida: False.
 */
 ```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio5.js "Ejercicio5")
 ```
 //EJERCICIO 6
 /*
-Determinar si el número entero dado es un múltiplo de 3. En otras palabras, dado un número entero a, regresar True si a es un múltiplo de 3; regresar False en otro caso. Sugerencia: en el lenguaje de programación elegido encontrar la operación o función que regresa el resto al dividir un número entre otro.
+Determinar si el número entero dado es un múltiplo de 3. En otras palabras, dado un número
+entero a, regresar True si a es un múltiplo de 3; regresar False en otro caso. 
+Sugerencia: en el lenguaje de programación elegido encontrar la operación o función que 
+regresa el resto al dividir un número entre otro.
 Ejemplo. Entrada: 18. Salida: True.
 Ejemplo. Entrada: −42. Salida: True.
 Ejemplo. Entrada: −71. Salida: False.
 Ejemplo. Entrada: 0. Salida: True.
 */
 ```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio6.js "Ejercicio6")
 ### Condicionales
+```
+//EJERCICIO 1
+/*
+Dado un número entero, regresar su valor absoluto. Sugerencia: usar la expresión condicional 
+y el operador condicional.
+Ejemplo. Entrada: −17. Salida: 17.
+Ejemplo. Entrada: 63. Salida: 63.
+Ejemplo. Entrada: 0. Salida: 0.
+*/
+```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio1.js "Ejercicio1")
+```
+//EJERCICIO 2
+/*
+Dado un número entero a, regresar su parte positiva. En otras palabras, si a es mayor o 
+igual a cero, entonces regresar el mismo número a; en otro caso regresar el número cero.
+Ejemplo. Entrada: −20. Salida: 0.
+Ejemplo. Entrada: 38. Salida: 38.
+*/
+```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio2.js "Ejercicio2")
+```
+//EJERCICIO 3
+/*
+Escribir una función max2 de dos argumentos enteros que regrese el más grande de estos dos números. 
+Ejemplo. Entrada: 70, −43. Salida: 70.
+Ejemplo. Entrada: −23, −10. Salida: −10. 
+Ejemplo. Entrada: −42, 35. Salida: 35. 
+Ejemplo. Entrada: −17, −17. Salida: −17.
+*/
+```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio3.js "Ejercicio3")
+```
+//EJERCICIO 4
+/*
+Escribir una función max3 de tres argumentos enteros que regrese el más grande de estos tres números.
+Sugerencia: usar la función max2 del Ejercicio Cond2.
+*/
+```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio4.js "Ejercicio4")
+```
+//EJERCICIO 5
+/*
+Escribir una función min2 de dos argumentos enteros que regrese el más pequeño de estos dos números. 
+Ejemplo. Entrada: 70, −43. Salida: 43.
+Ejemplo. Entrada: −23, −10. Salida: −23. 
+Ejemplo. Entrada: −42, 35. Salida: −42. 
+Ejemplo. Entrada: −17, −17. Salida: −17.
+*/
+```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio5.js "Ejercicio5")
+```
+//EJERCICIO 6
+/*
+Escribir una función min3 de tres argumentos enteros que regrese el más pequeño de estos tres números. 
+Sugerencia: usar la función min2 del Ejercicio anterior.
+*/
+```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio6.js "Ejercicio6")
+```
+//EJERCICIO 7
+/*
+Están dados dos números enteros, a y b. Hagamos un análisis de la ecuación lineal a x = b,
+donde la incógnita x puede ser un número racional. Si la ecuación tiene una única solución,
+entonces regresar 1. Si la ecuación no tiene solución, entonces regresar 0. Si la ecuación
+tiene más de una solución, entonces regresar 2.
+Ejemplo. Entrada: 70, −37. Salida: 1. 
+Ejemplo. Entrada: 0, 56. Salida: 0. 
+Ejemplo. Entrada: 0, 0. Salida: 2.
+*/
+```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio7.js "Ejercicio7")
+```
+//EJERCICIO 8
+/*
+Dados tres números reales a, b, x, devolver 1 si a ≤ x ≤ b; devolver 0 en otro caso. 
+En otras palabras, se trata de programar la función característica del segmento [a, b].
+Ejemplo. Entrada: −3.0, 7.5, 5.0. Salida: 1.
+Ejemplo. Entrada: 7.5, −3.0, 5.0. Salida: 0.
+Ejemplo. Entrada: −3.0, 7.5, −5.0. Salida: 0.
+*/
+```
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio8.js "Ejercicio8")
+```
+
+```
+```
+
+```
 ```
 
 ```
