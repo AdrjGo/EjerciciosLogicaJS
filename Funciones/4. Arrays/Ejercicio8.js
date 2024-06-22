@@ -3,18 +3,10 @@ Dado un arreglo a de números enteros, regresar un arreglo de números enteros d
 cuyos elementos son los cuadrados de los elementos del arreglo dado.
 Entrada: [−12, 23, 14, 6]. Salida: [144, 529, 196, 36].
 */
-function arrayCuadrado() {
-  const arreglo = [-12, 23, 14, 6];
+function arrayCuadrado(arreglo) {
+  const array = [];
   let elementos = arreglo.map((i) => i ** 2);
+  array.push(elementos);
   return elementos;
 }
-console.log(arrayCuadrado());
-
-//Otra solución
-function arrayCuadrado2() {
-  const arreglo2 = [-12, 23, 14, 6];
-  for (let i in arreglo2) {
-    console.log(arreglo2[i] ** 2);
-  }
-}
-arrayCuadrado2();
+console.log(arrayCuadrado([-12, 23, 14, 6]));

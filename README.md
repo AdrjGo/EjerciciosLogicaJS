@@ -458,3 +458,13 @@ Entrada: [−12, 23, 14, 6]. Salida: [6, 14, 23, −12].
 ```
 
 [Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio9.js "Ejercicio9")
+
+```
+//EJERCICIO 10
+/*
+Dados dos arreglos a y b de la misma longitud, devolver el arreglo de las sumas de sus elementos correspondientes.
+Entrada: [−17, 4, 8, −28], [24, 7, −14, 9]. Salida: [7, 11, −6, −19].
+*/
+```
+
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio10.js "Ejercicio10")
