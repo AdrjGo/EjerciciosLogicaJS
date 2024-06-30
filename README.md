@@ -357,7 +357,7 @@ Ejemplo. Entrada: −3.0, 7.5, −5.0. Salida: 0.
 ```
 //EJERCICIO 1
 /*
-Dado un número natural n y un número entero v, regresar el arreglo de longitud n
+Dado un número natural n y un número ENTERO v, regresar el arreglo de longitud n
 tal que todas sus entradas son iguales a v. En otras palabras, construir un arreglo
 constante de longitud dada y con el valor dado.
 Entrada: 6, −14. Salida: [−14, −14, −14, −14, −14, −14].
@@ -468,3 +468,14 @@ Entrada: [−17, 4, 8, −28], [24, 7, −14, 9]. Salida: [7, 11, −6, −19].
 ```
 
 [Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio10.js "Ejercicio10")
+```
+//EJERCICIO 11
+/*
+Dado un arreglo a, regresar el arreglo b de sus sumas parciales. 
+En otras palabras, b[j] es la suma de los elementos de a con índices desde 0 hasta j. 
+Sugerencia: si j ≥ 1, entonces b[j] se expresa a través de b[j − 1] y a[j].
+Ejemplo. Entrada: [−7, 3, 29, −18]. Salida: [−7, −4, 25, 7].
+*/
+```
+
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio11.js "Ejercicio11")
