@@ -47,4 +47,4 @@ function longitud5(n5, v5) {
   return arreglo5;
 }
 console.log(longitud5(6, -14));
-console.log(longitud5(10, 5));
+console.log(longitud5(10, 5)); 
