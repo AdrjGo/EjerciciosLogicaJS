@@ -13,3 +13,35 @@ function longitudCuadrados(n) {
 }
 console.log(longitudCuadrados(5));
 console.log(longitudCuadrados(20));
+
+
+//Otra solución WHILE
+function longitudCuadrados4(n) {
+  let arreglo = [];
+  let i = 0;
+  while (i < n) {
+    let cuadrado = i ** 2;
+    arreglo.push(cuadrado);
+    i++;
+  }
+  return arreglo;
+}
+console.log(longitudCuadrados4(5));
+console.log(longitudCuadrados4(20));
+
+
+//Otra solución FROM
+function longitudCuadrados2(n) {
+  return Array.from({ length: n }, (x, i) => i ** 2);
+}
+console.log(longitudCuadrados2(5));
+console.log(longitudCuadrados2(20));
+
+
+//Otra solución MAP
+function longitudCuadrados3(n) {
+  return [...Array(n).keys()].map((i) => i ** 2);
+}
+console.log(longitudCuadrados3(5));
+console.log(longitudCuadrados3(20));
+
