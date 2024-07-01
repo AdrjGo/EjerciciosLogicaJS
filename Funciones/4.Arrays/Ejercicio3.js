@@ -36,9 +36,18 @@ function longitudConsecutivos3(n, x) {
 console.log(longitudConsecutivos3(7, -4));
 console.log(longitudConsecutivos3(8, 6));
 
-//Otra solucióm FROM
+//Otra solución FILL Y MAP
 function longitudConsecutivos4(n, x) {
-  return Array.from({ length: n }, (_, i) => (x + i) ** 2);
+  return Array(n)
+    .fill(0)
+    .map((_, i) => (x + i) ** 2);
 }
 console.log(longitudConsecutivos4(7, -4));
 console.log(longitudConsecutivos4(8, 6));
+
+//Otra solucióm FROM
+function longitudConsecutivos5(n, x) {
+  return Array.from({ length: n }, (_, i) => (x + i) ** 2);
+}
+console.log(longitudConsecutivos5(7, -4));
+console.log(longitudConsecutivos5(8, 6));
