@@ -29,7 +29,7 @@ Ejemplo. Entrada: 5. Salida: 125.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio1.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio1.js "Ejercicio1")
 
 ```
 //EJERCICIO 2
@@ -40,7 +40,7 @@ Ejemplo. Entrada: −6. Salida: 36.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio2.js "Ejercicio2")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio2.js "Ejercicio2")
 
 ```
 //EJERCICIO 3
@@ -51,7 +51,7 @@ Ejemplo. Entrada: 32, −5. Salida: 37.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio3.js "Ejercicio3")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio3.js "Ejercicio3")
 
 ```
 //EJERCICIO 4
@@ -62,7 +62,7 @@ Ejemplo. Entrada: 15, −14. Salida: 631.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio4.js "Ejercicio4")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio4.js "Ejercicio4")
 
 ```
 //EJERCICIO 5
@@ -75,7 +75,7 @@ Ejemplo. Entrada: 11, 27.5. Salida: 29.6184064392398.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio5.js "Ejercicio5")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio5.js "Ejercicio5")
 
 ```
 //EJERCICIO 6
@@ -86,29 +86,29 @@ Ejemplo. Entrada: 25, −3, 17. Salida: 39.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio6.js "Ejercicio6")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio6.js "Ejercicio6")
 
 ```
 //EJERCICIO 7
 /*
 Dado un número real estrictamente positivo, regresar su raíz cúbica.
-Ejemplo. Entrada: 65. Salida: 4.02072575858906.
+Ejemplo. Entrada: 65. Salida: 4.072575858906.
 Ejemplo. Entrada: 1000. Salida: 10.0000000000000.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio7.js "Ejercicio7")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio7.js "Ejercicio7")
 
 ```
 //EJERCICIO 8
 /*
 Dados tres números a, b, c, regresar la longitud de la diagonal del paralelogramo cuyos lados
 tienen longitudes a, b, c.
-Entrada: −2.5, 0.3, −1.9. Salida: 3.1532620591175.
+Entrada: −2.5, 0.3, −1.9. Salida: 3.15326591175.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio8.js "Ejercicio8")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio8.js "Ejercicio8")
 
 ```
 //EJERCICIO 9
@@ -120,7 +120,7 @@ Entrada: 2.7, 5. Salida: 0.4951332634684.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio9.js "Ejercicio9")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio9.js "Ejercicio9")
 
 ```
 //EJERCICIO 10
@@ -132,7 +132,7 @@ Ejemplo. Entrada: 35. Salida: 0.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio10.js "Ejercicio10")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio10.js "Ejercicio10")
 
 ```
 //EJERCICIO 11
@@ -146,7 +146,7 @@ Ejemplo. Entrada: 5. Salida: 5.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio11.js "Ejercicio11")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio11.js "Ejercicio11")
 
 ```
 //EJERCICIO 12
@@ -157,7 +157,7 @@ Sugerencia: aplica la formula general
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.%20Simples/Ejercicio12.js "Ejercicio12")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/1.Simples/Ejercicio12.js "Ejercicio12")
 
 ### Booleanas
 
@@ -175,7 +175,7 @@ Ejemplo. Entrada: −70. Salida: False.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio1.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.Booleanas/Ejercicio1.js "Ejercicio1")
 
 ```
 //EJERCICIO 2
@@ -188,7 +188,7 @@ Ejemplo. Entrada: −31. Salida: True.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio2.js "Ejercicio2")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.Booleanas/Ejercicio2.js "Ejercicio2")
 
 ```
 //EJERCICIO 3
@@ -197,13 +197,13 @@ Dados tres números enteros a, b, x, determinar si x es mayor o igual al número
 tiempo estrictamente menor que b. En otras palabras, determinar si el número x pertenece al
 intervalo a, b.
 Observación: si a ≥b, entonces para cualquier x la función debe regresar False.
-Ejemplo. Entrada: 3, 32, 20. Salida: True.
+Ejemplo. Entrada: 3, 32, . Salida: True.
 Ejemplo. Entrada: −7, 40, 43. Salida: False.
 Ejemplo. Entrada: 40, 6, 30. Salida: False
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio3.js "Ejercicio3")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.Booleanas/Ejercicio3.js "Ejercicio3")
 
 ```
 //EJERCICIO 4
@@ -218,7 +218,7 @@ Ejemplo. Entrada: 466. Salida: True.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio4.js "Ejercicio4")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.Booleanas/Ejercicio4.js "Ejercicio4")
 
 ```
 //EJERCICIO 5
@@ -233,7 +233,7 @@ Ejemplo. Entrada: 466. Salida: False.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio5.js "Ejercicio5")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.Booleanas/Ejercicio5.js "Ejercicio5")
 
 ```
 //EJERCICIO 6
@@ -249,7 +249,7 @@ Ejemplo. Entrada: 0. Salida: True.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.%20Booleanas/Ejercicio6.js "Ejercicio6")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/2.Booleanas/Ejercicio6.js "Ejercicio6")
 
 ### Condicionales
 
@@ -264,19 +264,19 @@ Ejemplo. Entrada: 0. Salida: 0.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio1.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.Condicionales/Ejercicio1.js "Ejercicio1")
 
 ```
 //EJERCICIO 2
 /*
 Dado un número entero a, regresar su parte positiva. En otras palabras, si a es mayor o
 igual a cero, entonces regresar el mismo número a; en otro caso regresar el número cero.
-Ejemplo. Entrada: −20. Salida: 0.
+Ejemplo. Entrada: −. Salida: 0.
 Ejemplo. Entrada: 38. Salida: 38.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio2.js "Ejercicio2")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.Condicionales/Ejercicio2.js "Ejercicio2")
 
 ```
 //EJERCICIO 3
@@ -289,7 +289,7 @@ Ejemplo. Entrada: −17, −17. Salida: −17.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio3.js "Ejercicio3")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.Condicionales/Ejercicio3.js "Ejercicio3")
 
 ```
 //EJERCICIO 4
@@ -299,7 +299,7 @@ Sugerencia: usar la función max2 del Ejercicio Cond2.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio4.js "Ejercicio4")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.Condicionales/Ejercicio4.js "Ejercicio4")
 
 ```
 //EJERCICIO 5
@@ -312,7 +312,7 @@ Ejemplo. Entrada: −17, −17. Salida: −17.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio5.js "Ejercicio5")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.Condicionales/Ejercicio5.js "Ejercicio5")
 
 ```
 //EJERCICIO 6
@@ -322,7 +322,7 @@ Sugerencia: usar la función min2 del Ejercicio anterior.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio6.js "Ejercicio6")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.Condicionales/Ejercicio6.js "Ejercicio6")
 
 ```
 //EJERCICIO 7
@@ -337,7 +337,7 @@ Ejemplo. Entrada: 0, 0. Salida: 2.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio7.js "Ejercicio7")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.Condicionales/Ejercicio7.js "Ejercicio7")
 
 ```
 //EJERCICIO 8
@@ -350,7 +350,7 @@ Ejemplo. Entrada: −3.0, 7.5, −5.0. Salida: 0.
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.%20Condicionales/Ejercicio8.js "Ejercicio8")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/3.Condicionales/Ejercicio8.js "Ejercicio8")
 
 ### Arrays
 
@@ -364,7 +364,7 @@ Entrada: 6, −14. Salida: [−14, −14, −14, −14, −14, −14].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio1.js "Ejercicio1")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio1.js "Ejercicio1")
 
 ```
 //EJERCICIO 2
@@ -375,7 +375,7 @@ Entrada: 5. Salida: [0, 1, 4, 9, 16].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio2.js "Ejercicio2")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio2.js "Ejercicio2")
 
 ```
 //EJERCICIO 3
@@ -386,7 +386,7 @@ Entrada: 7, −4. Salida: [16, 9, 4, 1, 0, 1, 4].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio3.js "Ejercicio3")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio3.js "Ejercicio3")
 
 ```
 //EJERCICIO 4
@@ -399,7 +399,7 @@ Entrada: 5. Salida: [1, 2, 4, 8, 16].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio4.js "Ejercicio4")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio4.js "Ejercicio4")
 
 ```
 //EJERCICIO 5
@@ -411,7 +411,7 @@ Entrada: 5. Salida: [1, 1, 2, 6, 24].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio5.js "Ejercicio5")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio5.js "Ejercicio5")
 
 ```
 //EJERCICIO 6
@@ -422,7 +422,7 @@ Entrada: 5. Salida: [1, −1, 1, −1, 1].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio6.js "Ejercicio6")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio6.js "Ejercicio6")
 
 ```
 //EJERCICIO 7
@@ -431,12 +431,12 @@ Dado un número natural n y dos números enteros a y b, regresar el arreglo de l
 que contiene los primeros n elementos de la progresión aritmética con el valor
 inicial a y la diferencia (incremento) b.
 Entrada: 5, −3, 11. Salida: [−3, 8, 19, 30, 41].
-Entrada: 4, 20, −15. Salida: [20, 5, −10, −25].
+Entrada: 4, , −15. Salida: [, 5, −10, −25].
 Entrada: 0, 5, −3. Salida: [].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio7.js "Ejercicio7")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio7.js "Ejercicio7")
 
 ```
 //EJERCICIO 8
@@ -447,7 +447,7 @@ Entrada: [−12, 23, 14, 6]. Salida: [144, 529, 196, 36].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio8.js "Ejercicio8")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio8.js "Ejercicio8")
 
 ```
 //EJERCICIO 9
@@ -457,7 +457,7 @@ Entrada: [−12, 23, 14, 6]. Salida: [6, 14, 23, −12].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio9.js "Ejercicio9")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio9.js "Ejercicio9")
 
 ```
 //EJERCICIO 10
@@ -467,7 +467,7 @@ Entrada: [−17, 4, 8, −28], [24, 7, −14, 9]. Salida: [7, 11, −6, −19].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio10.js "Ejercicio10")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio10.js "Ejercicio10")
 ```
 //EJERCICIO 11
 /*
@@ -478,4 +478,4 @@ Ejemplo. Entrada: [−7, 3, 29, −18]. Salida: [−7, −4, 25, 7].
 */
 ```
 
-[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.%20Arrays/Ejercicio11.js "Ejercicio11")
+[Solución](https://github.com/AdrjGo/EjerciciosLogicaJS/blob/main/Funciones/4.Arrays/Ejercicio11.js "Ejercicio11")
