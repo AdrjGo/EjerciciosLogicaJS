@@ -405,8 +405,7 @@ Entrada: 5. Salida: [1, 2, 4, 8, 16].
 //EJERCICIO 5
 /*
 Dado un número natural n, regresar el arreglo de longitud n cuyos elementos son los
- factoriales de los primeros números naturales.
-Sugerencia: utilizar la fórmula recursiva para la función factorial.
+factoriales de los primeros números naturales.
 Entrada: 5. Salida: [1, 1, 2, 6, 24].
 */
 ```
