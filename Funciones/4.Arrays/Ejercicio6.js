@@ -12,6 +12,7 @@ function parImpar(n) {
 console.log(parImpar(5));
 console.log(parImpar(11));
 
+
 //Otra solución WHILE
 function parImpar2(n) {
   let arreglo = [];
@@ -25,12 +26,14 @@ function parImpar2(n) {
 console.log(parImpar2(5));
 console.log(parImpar2(11));
 
+
 //Otra solución MAP
 function parImpar3(n) {
   return [...Array(n).keys()].map((i) => (i % 2 === 0 ? 1 : -1));
 }
 console.log(parImpar3(5));
 console.log(parImpar3(11));
+
 
 //Otra solución FILL y MAP
 function parImpar4(n) {
@@ -40,6 +43,7 @@ function parImpar4(n) {
 }
 console.log(parImpar4(5));
 console.log(parImpar4(11));
+
 
 //Otra solución FROM
 function parImpar5(n) {
