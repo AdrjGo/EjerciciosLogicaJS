@@ -3,7 +3,7 @@ Dado un número natural n y dos números enteros a y b, regresar el arreglo de l
 Entrada: 5, −3, 11. Salida: [−3, 8, 19, 30, 41].
 Entrada: 4, 20, −15. Salida: [20, 5, −10, −25].
 Entrada: 0, 5, −3. Salida: [].
-*/
+*/ 
 function progresion(n, a, b) {
   let arreglo = [];
   if (n > 0) arreglo.push(a);
